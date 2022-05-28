@@ -1,0 +1,8 @@
+input,
+input::placeholder {
+  font-size: 20px;
+}
+[type="button"] {
+  color:orange;
+  font-size: 27px;
+}
